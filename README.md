@@ -1,6 +1,6 @@
 # Hunter × Hunter Quiz Battle — multiplayer starter
 
-Fan-made, unofficial 1v1 timed trivia game. Includes your approved QuizUp-inspired frontend and a real WebSocket backend. No Supabase keys or accounts needed for this first playable version.
+ This is a 1v1 timed trivia game. Includes QuizUp-inspired frontend and a real WebSocket backend. No Supabase keys or accounts needed for this first playable version.
 
 ## Requirements
 

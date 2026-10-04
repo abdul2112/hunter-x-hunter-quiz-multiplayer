@@ -1,0 +1,9 @@
+{
+  "name": "hunter-quiz-multiplayer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Fan-made Hunter x Hunter real-time trivia duel",
+  "scripts": {"start": "node server/index.cjs", "dev": "node --watch server/index.cjs", "test": "node --test"},
+  "engines": {"node": ">=20"},
+  "dependencies": {"express": "^4.21.2", "ws": "^8.18.1"}
+}

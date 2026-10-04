@@ -1,0 +1,22 @@
+module.exports = [
+{q:'What is the name of Gon’s father?',a:['Ging Freecss','Silva Zoldyck','Isaac Netero','Kite'],correct:0,why:'Ging Freecss is Gon’s father and a renowned Hunter.'},
+{q:'What is Killua’s family name?',a:['Kurta','Zoldyck','Freecss','Morow'],correct:1,why:'Killua belongs to the Zoldyck family of assassins.'},
+{q:'Which Nen category does Gon naturally belong to?',a:['Manipulator','Conjurer','Enhancer','Specialist'],correct:2,why:'Gon is an Enhancer, which suits his direct fighting style.'},
+{q:'What is the name of Gon’s signature Nen technique?',a:['Bungee Gum','Godspeed','Jajanken','Emperor Time'],correct:2,why:'Jajanken is Gon’s Rock-Paper-Scissors-inspired Nen technique.'},
+{q:'What is Kurapika’s clan called?',a:['Nostrade','Kurta','Zoldyck','Kakin'],correct:1,why:'Kurapika is a survivor of the Kurta Clan.'},
+{q:'Which group does Kurapika pursue for stealing his clan’s scarlet eyes?',a:['Chimera Ants','Zodiacs','Phantom Troupe','Shadow Beasts'],correct:2,why:'The Phantom Troupe is linked to the massacre of the Kurta Clan.'},
+{q:'What type of Nen does Killua use to create electricity?',a:['Transmutation','Emission','Enhancement','Manipulation'],correct:0,why:'Killua is a Transmuter who gives his aura electrical properties.'},
+{q:'Who serves as chairman of the Hunter Association during the Hunter Exam arc?',a:['Pariston Hill','Isaac Netero','Morel Mackernasey','Ging Freecss'],correct:1,why:'Isaac Netero is the association chairman during the Hunter Exam arc.'},
+{q:'What is the name of Hisoka’s elastic, sticky Nen ability?',a:['Deep Purple','Bungee Gum','Black Voice','Gallery Fake'],correct:1,why:'Bungee Gum possesses the properties of both rubber and gum.'},
+{q:'What is the name of the game Gon and Killua enter to search for clues about Ging?',a:['Heaven’s Arena','Greed Island','East Gorteau','Meteor City'],correct:1,why:'Gon and Killua enter Greed Island, a Nen-based game.'},
+{q:'Who trains Gon and Killua on Greed Island?',a:['Biscuit Krueger','Machi Komacine','Palm Siberia','Melody'],correct:0,why:'Biscuit Krueger, also called Bisky, trains Gon and Killua.'},
+{q:'What is the name of the Chimera Ant King?',a:['Youpi','Shaiapouf','Meruem','Kite'],correct:2,why:'Meruem is the Chimera Ant King.'},
+{q:'Which game does Meruem play against Komugi?',a:['Shogi','Chess','Go','Gungi'],correct:3,why:'Meruem and Komugi bond over the fictional strategy game Gungi.'},
+{q:'Who is the leader of the Phantom Troupe?',a:['Feitan Portor','Chrollo Lucilfer','Nobunaga Hazama','Phinks Magcub'],correct:1,why:'Chrollo Lucilfer leads the Phantom Troupe.'},
+{q:'Which of these is Leorio’s main career ambition?',a:['Become a doctor','Become a chef','Become an assassin','Become an archaeologist'],correct:0,why:'Leorio wants to become a doctor and help people who cannot afford treatment.'},
+{q:'What do Hunters receive after passing the Hunter Exam?',a:['A Greed Island card','A Hunter License','A Zoldyck token','A Scarlet Eye'],correct:1,why:'Successful examinees receive a Hunter License.'},
+{q:'What is the name of Killua’s younger sibling who helps Gon?',a:['Kalluto','Illumi','Alluka','Milluki'],correct:2,why:'Alluka is Killua’s younger sibling, whose power becomes important in the Election arc.'},
+{q:'Which Nen ability lets Kurapika use all Nen categories at full efficiency under specific conditions?',a:['Chain Jail','Emperor Time','Judgment Chain','Steal Chain'],correct:1,why:'Emperor Time is Kurapika’s Scarlet Eyes-linked Specialist ability.'},
+{q:'Where do Gon and Killua first fight in a towering martial-arts arena?',a:['Yorknew City','Whale Island','Heaven’s Arena','Meteor City'],correct:2,why:'Heaven’s Arena is the tower where Gon and Killua compete and learn about Nen.'},
+{q:'What is the name of Killua’s lightning-fast Nen mode?',a:['Dragon Dive','Godspeed','Jajanken','Terpsichora'],correct:1,why:'Godspeed uses Killua’s electricity to heighten his speed and reactions.'}
+];
